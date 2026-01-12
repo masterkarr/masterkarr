@@ -1,3 +1,4 @@
+![Panoramic Landscape of Sandy Utah](assets/profile_header.png)
 # Joshua Karr
 
 **Senior Software Engineer | Cloud Architect | Founder, Composite Logic**
